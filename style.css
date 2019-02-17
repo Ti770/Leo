@@ -1,0 +1,51 @@
+h1 {
+color: #ED7D32;
+font-size: 50px;
+}
+
+a:hover {
+color: green;
+font-size: 18px;
+}
+
+
+
+#header{
+	border-radius: 5px;
+	padding: 100px;
+	background-size: cover;
+	background-image: url("images/header1.jpg");
+}
+
+#footer {
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #50514F;
+	color: lightgrey;
+}
+
+.mid {
+	border-radius: 20px;
+	margin: 30px;
+}
+
+.staff {
+	border-radius: 20px;
+	padding: 2px;
+	width: 250px;
+	/*
+	height: 300px;
+	*/
+}
+
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+
